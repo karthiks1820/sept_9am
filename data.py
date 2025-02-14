@@ -1,5 +1,5 @@
-a = 5
+a = 9
 b = 3
-sum = a + b
+sum = a * b
 print("Sum:", sum)
 
