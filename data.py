@@ -1,5 +1,6 @@
 a = 9
 b = 3
-sum = a * b
+c=9
+sum = a * b * c
 print("Sum:", sum)
 
