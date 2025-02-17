@@ -1,6 +1,8 @@
 a = 9
 b = 3
 c=9
-sum = a * b * c
+mul = a * b * c
+sum=a+b+c
 print("Sum:", sum)
+print("Multuplication:",mul)
 
